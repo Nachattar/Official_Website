@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+We have used React to build the website for Nachattar Consultancy.
 
 ## Available Scripts
 
