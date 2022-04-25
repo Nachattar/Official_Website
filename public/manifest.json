@@ -1,0 +1,15 @@
+{
+  "short_name": "Nachattar App",
+  "name": "Official website for Nachattar Consultancy Services Limited",
+  "icons": [
+    {
+      "src": "nachattar-icon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "nachattar.com",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

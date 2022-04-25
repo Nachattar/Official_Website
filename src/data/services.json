@@ -1,0 +1,25 @@
+[
+
+  {
+    "heading":"Going Online",
+    "description":"Build a professional website",
+    "why":"Flaunt your business and go online. You must be thinking why I need to go online. Ever thought of creating a brand for your business? No? Then this is the right time to think of it. Research have shown that by just going online you can increase your customer base by a 30%.",
+    "solution":"We provide a one stop comprehensive solution for your need. You can start small with little to no investment and as your business grows you can add more services. Why wait? contact us now and share your details.",
+    "img":"/images/web-development.png"
+   },
+   {
+    "heading":"Have interesting software Ideas?",
+    "description":"We can help you build it",
+    "why":"We can help you build software of your thougts. Internet is full of solutions but some time these solutions come with lot of adhoc things that is just time consuming to implement and is mostly not needed for your personal tasks.",
+    "solution":"We can really analyse to see if there in the market that can help you. Else we build software from scratch just catering to your needs. We keep it simple and scalable for new buisneness requirments in the future. We also ensure that you can be self reliant using it or if it is really too complex than we can run these software components for you.",
+    "img":"/images/coding.jpg"
+   },
+   {
+    "heading":"Training",
+    "description":"We can train your staff on new and emerging technologies",
+    "why":"We are living in a society where lot of new trends come and go in the domain of technology. You and your staff needs to be aprised of the latest trends, specially related to security realms",
+    "solution":"We can train you on the new and emerging techs and even migrate your legacy stuff on these tech fronts. Ususally we start with a deep analysis of your tech stack, evaluate security, evaluate performance, and get a rigorous feedback. Based on this analyis we come up with a plan and execute it with perfection to upgrade and fix all the shortcomings. As a tip, once in a five year you should really evaluate your techstack.",
+    "img":"/images/training.jpg"
+   }
+
+]
